@@ -1,4 +1,5 @@
 export default function FeaturesGrid() {
+  
   const services = [
     { id: '1', title: 'Cloud Solutions', description: 'Our cloud platform helps businesses achieve limitless scalability and secure computing at an affordable rate.', iconType: 'cloud' },
     { id: '2', title: 'Data Analytics', description: 'Leverage powerful analytics to understand your customers and improve your overall business strategy.', iconType: 'chart' },
